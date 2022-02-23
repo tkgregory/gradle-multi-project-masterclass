@@ -1,4 +1,4 @@
-package com.tomgregory.maxitrain.model;
+package com.tomgregory.maxirail.model;
 
 import java.time.LocalTime;
 

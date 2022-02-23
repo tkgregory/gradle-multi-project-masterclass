@@ -1,17 +1,17 @@
-package com.tomgregory.maxitrain.controller;
+package com.tomgregory.maxirail.controller;
 
-import com.tomgregory.maxitrain.model.TrainTime;
-import com.tomgregory.maxitrain.model.TrainTimeService;
+import com.tomgregory.maxirail.model.TrainTime;
+import com.tomgregory.maxirail.model.TrainTimeService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
 @RestController
-public class MaxiTrainController {
+public class MaxiRailController {
     private final TrainTimeService trainTimeService;
 
-    public MaxiTrainController(TrainTimeService trainTimeService) {
+    public MaxiRailController(TrainTimeService trainTimeService) {
         this.trainTimeService = trainTimeService;
     }
 

@@ -1,4 +1,4 @@
-package com.tomgregory.maxitrain;
+package com.tomgregory.maxirail;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -17,7 +17,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 @AutoConfigureMockMvc
-public class MaxiTrainIT {
+public class MaxiRailIT {
     @Autowired
     private MockMvc mockMvc;
 

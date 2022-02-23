@@ -1,11 +1,11 @@
-package com.tomgregory.maxitrain;
+package com.tomgregory.maxirail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MaxiTrainApplication {
+public class MaxiRailApplication {
     public static void main(String[] args) {
-        SpringApplication.run(MaxiTrainApplication.class);
+        SpringApplication.run(MaxiRailApplication.class);
     }
 }
