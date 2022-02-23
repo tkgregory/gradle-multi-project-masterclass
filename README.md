@@ -1,3 +1,5 @@
+[![CI](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml)
+
 Demo app for course *Gradle Multi-project Masterclass*.
 
 ## Running
