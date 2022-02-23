@@ -1,5 +1,6 @@
-package com.tomgregory.maxirail.model;
+package com.tomgregory.maxirail.service;
 
+import com.tomgregory.maxirail.model.TrainTime;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalTime;
