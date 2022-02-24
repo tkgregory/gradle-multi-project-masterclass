@@ -1,24 +1,10 @@
 plugins {
-    java
-    id("org.springframework.boot") version "2.6.3"
-}
-
-repositories {
-    mavenCentral()
+    alias(libs.plugins.spring.boot)
+    id("com.tomgregory.maxirail.common-conventions")
 }
 
 dependencies {
     implementation(project(":service"))
-    implementation("org.springframework.boot:spring-boot-starter-web:2.6.3")
-    testImplementation("org.springframework.boot:spring-boot-starter-test:2.6.3")
-}
-
-tasks.test {
-    useJUnitPlatform()
-}
-
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
-    }
+    implementation(libs.spring.boot.web)
+    testImplementation(libs.spring.boot.test)
 }

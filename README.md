@@ -2,9 +2,15 @@
 
 Demo app for course *Gradle Multi-project Masterclass*.
 
+## Building
+
+To build and run all tests run:
+
+./gradlew build`
+
 ## Running
 
-Run the command:
+To start the application run:
 
 `./gradlew bootRun`
 
