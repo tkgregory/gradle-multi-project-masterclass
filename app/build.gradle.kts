@@ -8,9 +8,3 @@ dependencies {
     implementation(libs.spring.boot.web)
     testImplementation(libs.spring.boot.test)
 }
-
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
-    }
-}
