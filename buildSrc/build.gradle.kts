@@ -5,9 +5,3 @@ plugins {
 repositories {
     gradlePluginPortal()
 }
-
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
-    }
-}
