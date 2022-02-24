@@ -6,7 +6,7 @@ Demo app for course *Gradle Multi-project Masterclass*.
 
 To build and run all tests run:
 
-./gradlew build`
+`./gradlew build`
 
 ## Running
 
