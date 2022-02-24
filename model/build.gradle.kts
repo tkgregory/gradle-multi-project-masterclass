@@ -1,9 +1,4 @@
 plugins {
     `java-library`
-}
-
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(17))
-    }
+    id("com.tomgregory.maxirail.common-conventions")
 }
