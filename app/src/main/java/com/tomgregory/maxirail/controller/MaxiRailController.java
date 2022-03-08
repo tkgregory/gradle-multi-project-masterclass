@@ -16,7 +16,7 @@ public class MaxiRailController {
     }
 
     @GetMapping(path = "/")
-    public List<TrainTime> getTrainTimes() {
+    public List<TrainTime> getTimes() {
         return trainTimeService.getTrainTimes();
     }
 }
