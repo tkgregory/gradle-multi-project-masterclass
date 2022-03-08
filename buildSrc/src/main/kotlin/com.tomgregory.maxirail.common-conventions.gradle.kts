@@ -8,7 +8,7 @@ repositories {
 
 testing {
     suites {
-        val test by getting(JvmTestSuite::class) {
+        named("test", JvmTestSuite::class) {
             useJUnitJupiter()
         }
     }
