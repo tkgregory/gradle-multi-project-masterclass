@@ -1,6 +1,6 @@
 [![CI](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml)
 
-Demo app for course *Gradle Multi-project Masterclass*.
+Demo app for course *[Gradle Multi-project Masterclass](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)*.
 
 ## Building
 
