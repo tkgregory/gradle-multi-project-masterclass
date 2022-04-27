@@ -18,3 +18,6 @@ To start the application:
 `./gradlew bootRun`
 
 The application API is now available at [https://localhost:8080](https://localhost:8080).
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).
