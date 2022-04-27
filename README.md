@@ -1,16 +1,17 @@
 [![CI](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml)
 
 Demo app for course *[Gradle Multi-Project Masterclass](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)*.
+[<img src="juggling elephant.png" width="300px"/>](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)
 
 ## Building
 
-To build and run all tests run:
+To build and run all tests:
 
 `./gradlew build`
 
 ## Running
 
-To start the application run:
+To start the application:
 
 `./gradlew bootRun`
 
