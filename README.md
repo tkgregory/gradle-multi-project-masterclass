@@ -1,7 +1,9 @@
 [![CI](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml/badge.svg)](https://github.com/tkgregory/gradle-multi-project-masterclass/actions/workflows/gradle.yml)
 
 Demo app for course *[Gradle Multi-Project Masterclass](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)*.
-[<img src="juggling elephant.png" width="300px"/>](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)
+[<img src="juggling elephant.png" width="300" align="left"/>](https://learn.tomgregory.com/courses/gradle-multi-project-masterclass)
+
+<br clear="left"/>
 
 ## Building
 
